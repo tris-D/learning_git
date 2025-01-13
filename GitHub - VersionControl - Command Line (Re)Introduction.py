@@ -84,4 +84,4 @@
 # MERGE FEATURES BACK INTO MAIN BRANCH OF CODE - FEATURE DEVELOPMENT WITH BRANCHES: .git merge name-of-branch
 # git branch: to make a new branch, specify the name of your new branch 'branch_name'
     # without the name, it shows you back what branch you are on - * shows you which branch you are on
-# git checkout 'branch_name': switches between branches you are committing to
+# git checkout 'branch_name': switches between branches you are committing to 
